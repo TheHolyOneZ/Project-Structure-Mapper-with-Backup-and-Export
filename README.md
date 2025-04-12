@@ -16,4 +16,5 @@ This script is perfect for developers looking to document their project structur
 
 
 Example:
+
 ![image](https://github.com/user-attachments/assets/66a22705-baea-4acc-9d59-75c957d03c46)
