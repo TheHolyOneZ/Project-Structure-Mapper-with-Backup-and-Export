@@ -13,3 +13,4 @@ This Python script is designed to scan and map the folder structure of a specifi
  - UTF-8 encoding: Handles all characters and special symbols.
 
 This script is perfect for developers looking to document their project structures or share them with collaborators, while ensuring a backup of the project is safely created.
+
