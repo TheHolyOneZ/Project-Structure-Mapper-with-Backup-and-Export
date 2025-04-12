@@ -14,3 +14,6 @@ This Python script is designed to scan and map the folder structure of a specifi
 
 This script is perfect for developers looking to document their project structures or share them with collaborators, while ensuring a backup of the project is safely created.
 
+
+Example:
+![image](https://github.com/user-attachments/assets/66a22705-baea-4acc-9d59-75c957d03c46)
